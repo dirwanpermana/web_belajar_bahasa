@@ -1,0 +1,11 @@
+{
+  "name": "kata-kerja",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pelatih bicara bahasa Inggris & Bahasa Malaysia untuk QA engineer (PWA).",
+  "scripts": {
+    "dev": "vercel dev",
+    "serve": "npx --yes serve ."
+  },
+  "engines": { "node": ">=18" }
+}
